@@ -11,5 +11,5 @@ Increasing User Day By Day
 ![Screenshot 2024-01-09 191552](https://github.com/Aditya986025/Movie-Recommendation-System/assets/117461241/a026de4e-2c7b-4131-99f8-a7bf73baa6b5)
 
 
-Recommendation List as per User
+# Recommendation List as per User
 ![Screenshot 2024-01-09 191611](https://github.com/Aditya986025/Movie-Recommendation-System/assets/117461241/397718ec-93f0-4900-ad7e-847fdb15754d)
