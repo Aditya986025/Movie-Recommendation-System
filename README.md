@@ -14,4 +14,4 @@ Increasing User Day By Day
 # Recommendation List as per User
 ![Screenshot 2024-01-09 191611](https://github.com/Aditya986025/Movie-Recommendation-System/assets/117461241/397718ec-93f0-4900-ad7e-847fdb15754d)
 
-We get the final result.
+We get the final result for Movie-Recommendation-System.
