@@ -13,7 +13,7 @@ Increasing User Day By Day.
 
 # Recommendation List as per User for this project
 ![Screenshot 2024-01-09 191611](https://github.com/Aditya986025/Movie-Recommendation-System/assets/117461241/397718ec-93f0-4900-ad7e-847fdb15754d)
-
+Personalized movie recommendation systems work by collecting and analyzing various types of data to generate tailored recommendations for each user. The process involves several key steps: data collection, data processing, model training, and recommendation generation.
 Finally We get the final result for Movie-Recommendation-System.
 
 End. 
